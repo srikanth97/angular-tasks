@@ -1,0 +1,3 @@
+[submodule "scenario1"]
+	path = scenario1
+	url = https://github.com/srikanth97/scenario1.git
